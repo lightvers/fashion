@@ -368,15 +368,6 @@ footer a img {
     padding: 10px;
 }
 
-
-.gallery {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    padding: 25px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
 .H2 {
     padding-top: 30px;
     padding-bottom: 10px;
@@ -449,6 +440,7 @@ nav .menu a {
 .sliders {
     display: flex;
     transition: transform 0.5s ease-in-out;
+    width: auto;
 }
 
 .sliders .stroke-img {
